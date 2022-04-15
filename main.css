@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {
+    background-color: black;
+    font-family:Roboto;
+}
+
+#contenedor{
+    margin-left: 40%;
+    text-align: center;
+    color: grey;
+    width: 20%;
+}
+
+label{
+    color: white;
+}
+
+#titulo{
+    background-color: greenyellow;
+}
+
+#leo{
+    background-color: greenyellow;
+}
