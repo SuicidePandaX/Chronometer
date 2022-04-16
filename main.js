@@ -11,7 +11,7 @@ var contadorH = 0;
 
 function reset(){
     if (botonIniciar.innerHTML === 'PAUSE'){
-        botonIniciar.innerHTML = 'PLAY'
+        botonIniciar.innerHTML = 'PLAY';
     }
     contadorS = 0;
     contadorM = 0;
